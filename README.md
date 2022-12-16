@@ -1,6 +1,6 @@
 # Brazil
 
-[oh no](Brazil.jpg)
+![oh no](Brazil.jpg)
 
 # Sao Pao in shambles after lost 
 
